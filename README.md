@@ -24,7 +24,7 @@ as myself and great tutoring role for the
 , undoubtedly, great group of guru's in
 this community.
 
-I liked to share those thoughts in the
+I like to share those thoughts in the
 coming days and see if there is interest
 and a feeling of 'yeah! let's kick start
 this new wonderful piece of 8 bit tech with

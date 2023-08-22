@@ -8,9 +8,6 @@ yes, code seems loose and it is.
 I needed to experience how much
 fun coding would bring me now.
 
-as for the code itself, yes,
-it is loose, raw.
-
 1st comes coding and understanding
 optimizing and stripping cycles
 comes later but not in this process 

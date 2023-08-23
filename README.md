@@ -12,3 +12,7 @@ fun coding would still bring me now.
 Optimizing and stripping cycles
 comes later but not in this process 
 
+load in your favourite emulator or
+original hardware to start:
+
+sys 4096

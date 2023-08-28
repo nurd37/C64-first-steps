@@ -468,7 +468,8 @@ initbullit
         sbc #10
         sta spritex+1 ; bullit x
         lda spritey  ; load spaceship y-pos -18 set to bullit y-pos
-        sbc #20
+        sec          ; or remove sec &
+        sbc #20       ; eor #20 spritey -#20 Will never be negative! m
         sta spritey+1 ;
         inc spritebullit
 joyexit rts
